@@ -16,9 +16,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/qiaolin-yu/
-organizations:
-  - name: Xi'an Jiaotong-Liverpool University
-    url: https://www.xjtlu.edu.cn/en/
+organizations: []
 education:
   courses: []
 email: liin1211@outlook.com
